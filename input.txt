@@ -1,0 +1,8 @@
+validID
+123
+12.34e+10
+abc@12
+a#
+wrong
+23e+
+/* unclosed comment starts here
